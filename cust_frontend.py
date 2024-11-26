@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 # Backend API URL
-BASE_URL = "http://127.0.0.1:5000"
+BASE_URL = "https://restaurant-management-system-r4vl.onrender.com"
 
 # st.title("Restaurant Management System")
 
